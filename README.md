@@ -176,7 +176,7 @@ This project is developed as a personal chess implementation. Feel free to use, 
 
 ## 👨‍💻 Author
 
-**Md Faisal Aftab** - Chess Game Developer
+**Md Faisal Aftab** - Developer
 
 ---
 
